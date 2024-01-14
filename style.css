@@ -1,0 +1,25 @@
+.first-square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
+
+.second-square {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 7%;
+    z-index: 2;
+    right: 90%;
+}
+
+.third-square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 14%;
+    right: 87%;
+}
